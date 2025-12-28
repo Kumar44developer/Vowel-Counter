@@ -38,7 +38,9 @@ textarea{
     resize: none;
 }
 
-
+button{
+    padding: 10px 20px;
+    background-color: #4caf50;
 
 
 
