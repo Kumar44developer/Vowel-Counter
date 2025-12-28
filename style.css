@@ -29,6 +29,8 @@ h1{
 textarea{
     width: 500px;
     height: 350px;
+    margin: 10px auto;
+    display: block;
 
 
 
