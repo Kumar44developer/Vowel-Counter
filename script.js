@@ -14,3 +14,5 @@ var result = document.getElementById("result");
     result.textContent = "Total Vowels: " + vowelCount;
 
 }
+function isVowel(char){
+    var vowels = ["a","e","i","o","u"];
