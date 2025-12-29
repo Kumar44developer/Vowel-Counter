@@ -5,3 +5,7 @@ text = text.toLowerCase();
     
 for(var i = 0; i < text.length; i++){
 var char = text.charAt(i);
+if(isVowel(char)){
+             vowelCount++;   
+        }
+    }
