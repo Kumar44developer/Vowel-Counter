@@ -16,3 +16,5 @@ var result = document.getElementById("result");
 }
 function isVowel(char){
     var vowels = ["a","e","i","o","u"];
+   return vowels.includes(char);
+}
