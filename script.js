@@ -9,3 +9,8 @@ if(isVowel(char)){
              vowelCount++;   
         }
     }
+
+var result = document.getElementById("result");
+    result.textContent = "Total Vowels: " + vowelCount;
+
+}
