@@ -51,13 +51,13 @@ graph TD
 
 ```text
 Vowel-Counter/
-├── .gitignore          Standard Git exclusion patterns
-├── index.html          Semantic markup and glassmorphic UI layout
-├── README.md           Startup documentation and architecture overview
-├── script.js           Core analysis logic, event handlers, and helpers
-├── style.css           Responsive stylesheet, variables, and animations
+├── .gitignore         
+├── index.html         
+├── README.md         
+├── script.js           
+├── style.css           
 └── tests/
-    └── test_vowels.js  Unit test suite for text analysis algorithms
+    └── test_vowels.js  
 ```
 
 ---
